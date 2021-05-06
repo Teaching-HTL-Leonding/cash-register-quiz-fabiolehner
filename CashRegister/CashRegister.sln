@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashRegister.WebAPI", "CashRegister.WebAPI\CashRegister.WebAPI.csproj", "{89183E40-2FF5-492B-B348-6135D0C94A04}"
+	ProjectSection(ProjectDependencies) = postProject
+		{00A419D4-4407-4364-842D-CD8B53E05B1B} = {00A419D4-4407-4364-842D-CD8B53E05B1B}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashRegister.UICore", "CashRegister.UICore\CashRegister.UICore.csproj", "{A60079DB-EC5A-49C1-82B0-481D39F8723E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{00A419D4-4407-4364-842D-CD8B53E05B1B} = {00A419D4-4407-4364-842D-CD8B53E05B1B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister.Shared", "CashRegister.Shared\CashRegister.Shared.csproj", "{00A419D4-4407-4364-842D-CD8B53E05B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89183E40-2FF5-492B-B348-6135D0C94A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89183E40-2FF5-492B-B348-6135D0C94A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89183E40-2FF5-492B-B348-6135D0C94A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89183E40-2FF5-492B-B348-6135D0C94A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60079DB-EC5A-49C1-82B0-481D39F8723E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60079DB-EC5A-49C1-82B0-481D39F8723E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60079DB-EC5A-49C1-82B0-481D39F8723E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60079DB-EC5A-49C1-82B0-481D39F8723E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A419D4-4407-4364-842D-CD8B53E05B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A419D4-4407-4364-842D-CD8B53E05B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A419D4-4407-4364-842D-CD8B53E05B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A419D4-4407-4364-842D-CD8B53E05B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B4C5C26-8106-477C-8D91-658B4E51D588}
+	EndGlobalSection
+EndGlobal
