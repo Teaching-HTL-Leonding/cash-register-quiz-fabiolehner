@@ -1,0 +1,12 @@
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.deps.json
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.dll
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\bin\Debug\net5.0\ref\CashRegister.Shared.dll
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.pdb
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.csproj.AssemblyReference.cache
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.AssemblyInfoInputs.cache
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.AssemblyInfo.cs
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.csproj.CoreCompileInputs.cache
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.dll
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\ref\CashRegister.Shared.dll
+D:\School\cash-register-quiz-jfischlmayr\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.pdb
